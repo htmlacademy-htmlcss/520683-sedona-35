@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Артем Леонтьев](https://up.htmlacademy.ru/htmlcss/35/user/520683).
-* Наставник: `Виктор Рыбаков`(https://htmlacademy.ru/profile/id1012537).
+* Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/id1012537).
 
 ---
 
